@@ -243,6 +243,6 @@ git push
 
 ```git
 git add .
-git commit -m "feat: routing"
+git commit -m "fix: routing"
 git push
 ```
