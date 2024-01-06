@@ -177,6 +177,12 @@ export default function App() {
 }
 ```
 
+```git
+git add .
+git commit -m "feat: react router"
+git push
+```
+
 #### 06. Create the _404.html_ file in the _public_ folder
 
 ```html
